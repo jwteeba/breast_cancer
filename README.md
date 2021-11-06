@@ -1,3 +1,5 @@
+Logistic Regression is used to determine whether a diagnosed breast cancer tumor is Benign or Malignant
+
 Data Title: Wisconsin Breast Cancer Database (January 8, 1991)
 
 Data Sources:
@@ -10,3 +12,5 @@ Data Sources:
    - Date: 15 July 1992
    
 Link to dataset: **[Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/)** 
+
+
